@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Create API request and run](create-api-request-and-run.md)
-* [Analyzing API response](analyzing-api-response.md)
+* [API request and response usage](create-api-request-and-run/README.md)
+  * [Analyzing API response](create-api-request-and-run/analyzing-api-response.md)
 * [Collections: An Overview](collections-an-overview/README.md)
   * [Run a Collection](collections-an-overview/run-a-collection.md)
 
