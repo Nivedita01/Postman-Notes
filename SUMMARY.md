@@ -8,8 +8,3 @@
 
 ## Collections
 
----
-
-* [Untitled](untitled.md)
-* [Untitled](untitled-1.md)
-
