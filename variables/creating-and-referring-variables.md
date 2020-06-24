@@ -18,7 +18,17 @@ description: Learning how to create and refer variables in Postman
 
 This variable is used inside all requests in the GET folder. Hence, all requests in this folder can be replaced to use the url variable as shown below.
 
-![](../.gitbook/assets/allrequestsvariablecollection.gif)
+![Variables at Collection Level](../.gitbook/assets/allrequestsvariablecollection.gif)
 
 ### Setting variables at the Environment level
+
+1. Click on Manage Environments button.
+2. Click on Globals to create a global variable.
+3. Add required variables and their values and click Save.
+4. Close Manage Environments.
+5. Click on Environment Quick Looks to check the global variables defined.
+
+![Variables at Environment level](../.gitbook/assets/globalvariables.gif)
+
+
 
