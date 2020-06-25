@@ -18,5 +18,7 @@ Tests can be written at request level, folder level or collection level as shown
 
 ![Writing tests at the Collection level](.gitbook/assets/testscollection.gif)
 
+### Sample execution of a test
 
+![Run a test and check Test results](.gitbook/assets/running-a-test.gif)
 
