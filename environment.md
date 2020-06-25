@@ -36,3 +36,12 @@ Save and run the request to find name of doggie replaced as per the selected Env
 
 ![Demo for Environment variables](.gitbook/assets/showenv.gif)
 
+### Deleting an environment
+
+1. Click on Manage Environments
+2. Click on 3 dots\(...\) next to the environment user wants to delete.
+3. Select Delete.
+4. Confirm Deletion.
+
+![Delete an environment](.gitbook/assets/deleteenv.gif)
+

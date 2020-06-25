@@ -10,4 +10,5 @@
   * [Set and Get Variables at Collection Level](variables/set-and-get-variables-at-collection-level.md)
   * [Set and Get Variables at the Global Level](variables/at-the-environment-level.md)
 * [Environment](environment.md)
+* [Tests](tests.md)
 
