@@ -7,4 +7,7 @@
   * [Run a Collection](collections-an-overview/run-a-collection.md)
 * [Variables](variables/README.md)
   * [Creating and referring Variables](variables/creating-and-referring-variables.md)
+  * [Set and Get Variables at Collection Level](variables/set-and-get-variables-at-collection-level.md)
+  * [Set and Get Variables at the Global Level](variables/at-the-environment-level.md)
+* [Environment](environment.md)
 

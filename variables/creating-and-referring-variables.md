@@ -11,7 +11,7 @@ description: Learning how to create and refer variables in Postman
 3. Click on Variables
 4. Enter Variable name = url and current value = "[https://petstore.swagger.io/v2](https://petstore.swagger.io/v2)"
 5. Click Update
-6. Replace request API with defined variable.
+6. Replace request API with the defined variable.
 7. Click Send to get response API.
 
 ![Creating variable inside Collection](../.gitbook/assets/variablecollection.gif)
@@ -29,6 +29,4 @@ This variable is used inside all requests in the GET folder. Hence, all requests
 5. Click on Environment Quick Looks to check the global variables defined.
 
 ![Variables at Environment level](../.gitbook/assets/globalvariables.gif)
-
-
 
