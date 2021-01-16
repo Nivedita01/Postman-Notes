@@ -16,7 +16,7 @@ I have picked the Petstore Swagger website.
 
 Before starting anything on Postman, verify if the APIs are working fine by checking if the response is present or not.
 
-Type [https://petstore.swagger.io/](https://petstore.swagger.io/) in the URL of a web browser followed by request tag, so that the request API becomes 
+Type https://petstore.swagger.io/v2/pet/findByStatus?status=available in the URL of a web browser 
 
 {% embed url="https://petstore.swagger.io/v2/pet/findByStatus?status=available" %}
 
